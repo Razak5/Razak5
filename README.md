@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Razak5
-- 👀 I’m interested in Building Apps Using JAVA
-- 🌱 I’m currently learning JAVA and SQL
-- 💞️ I’m looking to collaborate on JAVA and SQL PROJECTS
-- 📫 How to reach me 
+- @Razak5 Here!
+- Interested in Building Apps Using JAVA because I'm currently learning JAVA and SQL
+- I’m looking to collaborate on JAVA and SQL PROJECTS
+- e-mail: hrazak50@gmail.com 
 
 <!---
 Razak5/Razak5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
