@@ -1,7 +1,8 @@
 - @Razak5 Here!
 - Interested in Building Apps Using JAVA because I'm currently learning JAVA and SQL
 - I’m looking to collaborate on JAVA and SQL PROJECTS
-- e-mail: hrazak50@gmail.com 
+- e-mail: hrazak50@gmail.com
+and finally GIT to BUILD
 
 <!---
 Razak5/Razak5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
